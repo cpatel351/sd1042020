@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace _5_2LabSolution
+namespace lab5_2
 {
     class Program
     {
